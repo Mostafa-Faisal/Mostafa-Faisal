@@ -42,6 +42,10 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
+  <br>
+  <span>Machine Learning | Deep Learning | Hugging Face Transformers | Sentiment Analysis</span>
+</p>
+
 #### Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,vercel,fastapi" />
