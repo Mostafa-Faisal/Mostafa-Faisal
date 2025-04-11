@@ -30,7 +30,7 @@
 
 #### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python," />
 </p>
 
 #### Web Development
