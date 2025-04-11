@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack Dev | AI Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&center=true&vCenter=true&width=800&lines=Passionate+MERN+Stack+Developer;AI+and+FinTech+Exploration+On;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&center=true&vCenter=true&width=800&lines=Passionate+MERN+Stack+Developer;AI+Exploration+On;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 ---
