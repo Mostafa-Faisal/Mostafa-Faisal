@@ -43,7 +43,7 @@
 </p>
 
   <br>
-  <span>Machine Learning | Deep Learning | Hugging Face Transformers | Sentiment Analysis</span>
+  <p align="center"><b>🧠 Machine Learning | 🔮 Deep Learning | 🤗 Hugging Face Transformers | 📊 Sentiment Analysis</b></p>
 </p>
 
 #### Tools & Technologies
