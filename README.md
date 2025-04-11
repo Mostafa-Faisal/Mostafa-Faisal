@@ -34,7 +34,7 @@
 
 #### Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,php" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,php" />
 </p>
 
 #### AI/ML
