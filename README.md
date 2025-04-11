@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mohaimen Akand Faisal</h1>
-<h3 align="center">Software Engineer | Full-Stack Dev | AI Enthusiast</h3>
+<h3 align="center"><h3 align="center">Software Developer | Full-Stack Dev | AI Enthusiast</h3></h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&center=true&vCenter=true&width=800&lines=Passionate+MERN+Stack+Developer;AI+Exploration+On;Always+Learning+%26+Building" alt="Typing SVG" />
