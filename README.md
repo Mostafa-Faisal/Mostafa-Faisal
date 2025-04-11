@@ -7,12 +7,13 @@
 
 ---
 
-- 🔭 I’m currently working on **MERN stack projects with AI/ML integrations**
-- 🧠 Exploring **NLP, LLMs, Docker, Redis, FastAPI, Prisma**
+- 🔭 I'm currently working on **MERN stack projects with AI/ML integrations**
+- 🧠 Exploring **NLP, LLMs, Docker, FastAPI**
 - 🏆 Finished BSc in IT 💯
+- 🌐 Portfolio: [faisal-portfolio.vercel.app](https://faisal-portfolio-tau.vercel.app/)
 - 📫 Reach me at: **mostafafaisal013@gmail.com**
 - 🌐 LinkedIn: [Mostafa Mohaimen Akand Faisal](http://linkedin.com/in/mostafa-mohaimen-akand-faisal)
-
+  
 ---
 
 ### 🧠 Today I Learned (TIL)
@@ -68,7 +69,7 @@
 
 Here are a few of my key projects:
 
-- 🧠 **Monkeypox vs. COVID-19 Sentiment Analysis** — Analyzed 500K+ tweets using NLP and BERT models to compare public sentiment between diseases, revealing key insights about public health communication patterns.
+- 🧠 **Monkeypox vs. COVID-19 Sentiment Analysis** — Analyzed 250K+ tweets using NLP and RoBERTa, XLNet, and DistilRoBERTa models implemented via Hugging Face Transformers  to compare public sentiment between diseases, revealing key insights about public health communication patterns.
 
 - 🧠 **AI-Based Classroom** — Developed an AI-powered classroom assistant that automates question generation from PDF resources using t5-base-qg-hl model. Built with React+Vite frontend, Node.js/Express/TypeScript backend, and FastAPI for ML model deployment. [Live Demo](https://front-end-seven-teal.vercel.app/)
 
