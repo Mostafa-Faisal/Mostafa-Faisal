@@ -46,11 +46,6 @@
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <small>NumPy | Pandas | Matplotlib</small>
-</p>
-
   <br>
   <p align="center"><b>🧠 Machine Learning | 🔮 Deep Learning | 🤗 Hugging Face Transformers | 📊 Sentiment Analysis | 👁️ OpenCV | 🎯 YOLO | 🖼️ GANs</b></p>
 </p>
