@@ -16,15 +16,6 @@
   
 ---
 
-### 🧠 Today I Learned (TIL)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 🔁 Updated hourly via GitHub Actions
-
----
-
 ### 🚀 Tech Stack
 
 
