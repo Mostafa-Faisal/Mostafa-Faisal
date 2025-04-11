@@ -41,10 +41,17 @@
 #### AI/ML
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
   <br>
-  <p align="center"><b>🧠 Machine Learning | 🔮 Deep Learning | 🤗 Hugging Face Transformers | 📊 Sentiment Analysis</b></p>
+  <p align="center"><b>🧠 Machine Learning | 🔮 Deep Learning | 🤗 Hugging Face Transformers | 📊 Sentiment Analysis | 👁️ OpenCV | 🎯 YOLO | 🖼️ GANs</b></p>
 </p>
 
 #### Tools & Technologies
