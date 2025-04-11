@@ -70,8 +70,15 @@ Here are a few of my key projects:
 
 - 🧠 **Monkeypox vs. COVID-19 Sentiment Analysis** — Analyzed 500K+ tweets using NLP and BERT models to compare public sentiment between diseases, revealing key insights about public health communication patterns.
 
-- 🤖 **AI-Powered PDF Question Generator** — Built a full-stack application that extracts information from PDFs and generates relevant questions using Hugging Face transformers, with a React frontend and Node.js/Express backend.
+- 🧠 **AI-Based Classroom** — Developed an AI-powered classroom assistant that automates question generation from PDF resources using t5-base-qg-hl model. Built with React+Vite frontend, Node.js/Express/TypeScript backend, and FastAPI for ML model deployment. [Live Demo](https://front-end-seven-teal.vercel.app/)
 
+- 💼 **Job Search Website** — Created a full-stack job search platform using HTML, CSS, JavaScript, PHP, and MySQL, implementing user authentication, job listings, and application tracking features.
+
+- 📚 **Central Library System** — Built a library management interface with HTML, CSS, and JavaScript to streamline book cataloging and borrowing processes.
+
+- 📝 **MCQ Test Desktop App** — Developed a Java-based desktop application with GUI for creating and taking multiple-choice tests.
+
+- 🖼️ **Cartoonify Image Desktop App** — Created a Python application with GUI that transforms photos into cartoon-style images, applying software design principles including UML diagrams, ER modeling, and Agile methodologies.
 ---
 
 ### 📣 Let's Connect!
