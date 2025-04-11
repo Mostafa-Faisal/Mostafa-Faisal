@@ -48,6 +48,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <small>NumPy | Pandas | Matplotlib</small>
 </p>
 
   <br>
