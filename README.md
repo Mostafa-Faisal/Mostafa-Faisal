@@ -42,11 +42,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/Mostafa-Faisal/Mostafa-Faisal/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ### 💼 Projects Showcase
 
