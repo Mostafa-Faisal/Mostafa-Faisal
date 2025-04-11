@@ -11,7 +11,7 @@
 - 🧠 Exploring **NLP, LLMs, Docker, Redis, FastAPI, Prisma**
 - 🏆 Finished BSc in IT 💯
 - 📫 Reach me at: **mostafamohaimenfaisal@gmail.com**
-- 🌐 LinkedIn: (http://linkedin.com/in/mostafa-mohaimen-akand-faisal)
+- 🌐 LinkedIn: http://linkedin.com/in/mostafa-mohaimen-akand-faisal
 
 ---
 
