@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **MERN stack projects with AI/ML integrations**
 - 🧠 Exploring **NLP, LLMs, Docker, Redis, FastAPI, Prisma**
 - 🏆 Finished BSc in IT 💯
-- 📫 Reach me at: **mostafamohaimenfaisal@gmail.com**
+- 📫 Reach me at: **mostafafaisal013@gmail.com**
 - 🌐 LinkedIn: [Mostafa Mohaimen Akand Faisal](http://linkedin.com/in/mostafa-mohaimen-akand-faisal)
 
 ---
