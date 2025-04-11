@@ -26,8 +26,25 @@
 
 ### 🚀 Tech Stack
 
+
+#### Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,tensorflow,pytorch,fastapi,docker,git,linux,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" />
+</p>
+
+#### Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,php" />
+</p>
+
+#### AI/ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+#### Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,vercel,fastapi" />
 </p>
 
 ---
