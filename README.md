@@ -90,7 +90,7 @@ Here are a few of my key projects:
 <a href="http://linkedin.com/in/mostafa-mohaimen-akand-faisal">
   <img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" style="padding-right:10px;" />
 </a>
-<a href="mostafafaisal013@gmail.com">
+<a href="mailto:mostafafaisal013@gmail.com">
   <img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" style="padding-right:10px;" />
 </a>
 
