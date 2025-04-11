@@ -66,11 +66,11 @@
 
 ### 💼 Projects Showcase
 
-Here are a few of my key projects (pin these on your GitHub):
+Here are a few of my key projects:
 
-- 🧠 **Monkeypox vs. COVID-19 Sentiment Analysis** — NLP, BERT, Time-Series Insights
-- 🧪 **ML Model Deployment** — Docker, FastAPI, Vercel integration
-- 💬 **PDF to Question Generator** — Transformers + MERN Stack backend
+- 🧠 **Monkeypox vs. COVID-19 Sentiment Analysis** — Analyzed 500K+ tweets using NLP and BERT models to compare public sentiment between diseases, revealing key insights about public health communication patterns.
+
+- 🤖 **AI-Powered PDF Question Generator** — Built a full-stack application that extracts information from PDFs and generates relevant questions using Hugging Face transformers, with a React frontend and Node.js/Express backend.
 
 ---
 
