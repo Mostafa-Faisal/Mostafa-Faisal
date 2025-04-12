@@ -65,7 +65,7 @@ Here are a few of my key projects:
 
 - 🧠 **Monkeypox vs. COVID-19 Sentiment Analysis** — Analyzed 250K+ tweets using NLP and RoBERTa, XLNet, and DistilRoBERTa models implemented via Hugging Face Transformers  to compare public sentiment between diseases, revealing key insights about public health communication patterns.
 
-- 🧠 **AI-Based Classroom** — Developed an AI-powered classroom assistant that automates question generation from PDF resources using t5-base-qg-hl model. Built with React+Vite frontend, Node.js/Express/TypeScript backend, and FastAPI for ML model deployment. [Live Demo](https://front-end-seven-teal.vercel.app/)
+- 🧠 **AI-Based Classroom** — Developed an AI-powered classroom assistant that automates question generation from PDF resources using t5-base-qg-hl model. Built with React+Vite frontend, Node.js/Express/TypeScript/MongoDB backend, and FastAPI for ML model deployment. [Live Demo](https://front-end-seven-teal.vercel.app/)
 
 - 💼 **Job Search Website** — Created a full-stack job search platform using HTML, CSS, JavaScript, PHP, and MySQL, implementing user authentication, job listings, and application tracking features.
 
