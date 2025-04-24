@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Mohaimen Akand Faisal</h1>
-<h3 align="center"><h3 align="center">IT Graduate | Full-Stack Dev | AI Enthusiast</h3></h3>
+<h3 align="center">IT Graduate | Full-Stack Dev | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&center=true&vCenter=true&width=800&lines=Passionate+MERN+Stack+Developer;AI+Exploration+On;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -13,11 +13,19 @@
 - 🌐 Portfolio: [faisal-portfolio.vercel.app](https://faisal-portfolio-tau.vercel.app/)
 - 📫 Reach me at: **mostafafaisal013@gmail.com**
 - 🌐 LinkedIn: [Mostafa Mohaimen Akand Faisal](http://linkedin.com/in/mostafa-mohaimen-akand-faisal)
-  
+
+---
+
+## 🧪 Software Testing & QA Highlights
+
+- Proficient in **Manual Testing** (Functional, Regression) and **API Testing** using **Postman**.
+- Hands-on with **Automation Testing** using **Selenium** (basic test automation flows).
+- Experience with **writing and executing test cases**, identifying bugs, and ensuring quality releases in academic and portfolio projects.
+- Familiar with **Agile collaboration**, test planning based on **acceptance criteria**, and using **Android emulators** for mobile UI testing.
+
 ---
 
 ### 🚀 Tech Stack
-
 
 #### Programming Languages
 <p align="center">
@@ -37,9 +45,7 @@
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="matplotlib" width="40" height="40"/>
 </p>
 
-  <br>
-  <p align="center"><b>🧠 Machine Learning | 🔮 Deep Learning | 🤗 Hugging Face Transformers | 📊 Sentiment Analysis | 👁️ OpenCV | 🎯 YOLO | 🖼️ GANs</b></p>
-</p>
+<p align="center"><b>🧠 Machine Learning | 🔮 Deep Learning | 🤗 Hugging Face Transformers | 📊 Sentiment Analysis | 👁️ OpenCV | 🎯 YOLO | 🖼️ GANs</b></p>
 
 #### Tools & Technologies
 <p align="center">
@@ -58,22 +64,31 @@
 
 ---
 
-
 ### 💼 Projects Showcase
 
-Here are a few of my key projects:
+- 🧠 **Monkeypox vs. COVID-19 Sentiment Analysis**  
+  Analyzed 250K+ tweets using NLP and RoBERTa, XLNet, and DistilRoBERTa models via Hugging Face Transformers to compare public sentiment between diseases. Revealed insights on public health communication.
 
-- 🧠 **Monkeypox vs. COVID-19 Sentiment Analysis** — Analyzed 250K+ tweets using NLP and RoBERTa, XLNet, and DistilRoBERTa models implemented via Hugging Face Transformers  to compare public sentiment between diseases, revealing key insights about public health communication patterns.
+- 🧠 **AI-Based Classroom**  
+  Developed an AI-powered classroom assistant that automates question generation from PDFs using the t5-base-qg-hl model. Built with React+Vite frontend, Node.js/Express/TypeScript/MongoDB backend, and FastAPI for ML.  
+  🔹 Performed **API testing** using Postman to ensure backend reliability and accurate data handling.  
+  🔹 Designed and executed **manual test cases** for both web and Android emulator-based interfaces.  
+  🔹 Ensured seamless frontend–backend–ML model interaction through end-to-end testing.
 
-- 🧠 **AI-Based Classroom** — Developed an AI-powered classroom assistant that automates question generation from PDF resources using t5-base-qg-hl model. Built with React+Vite frontend, Node.js/Express/TypeScript/MongoDB backend, and FastAPI for ML model deployment. [Live Demo](https://front-end-seven-teal.vercel.app/)
+- 💼 **Job Search Website**  
+  Created a full-stack platform using HTML, CSS, JavaScript, PHP, and MySQL for job listings and applications.  
+  🔹 Executed **manual and API testing** with Postman to verify job post flows and form validations.  
+  🔹 Designed test cases for edge conditions and backend response handling.
 
-- 💼 **Job Search Website** — Created a full-stack job search platform using HTML, CSS, JavaScript, PHP, and MySQL, implementing user authentication, job listings, and application tracking features.
+- 📚 **Central Library System**  
+  Built a library management interface with HTML, CSS, and JavaScript to manage book borrowing and cataloging.
 
-- 📚 **Central Library System** — Built a library management interface with HTML, CSS, and JavaScript to streamline book cataloging and borrowing processes.
+- 📝 **MCQ Test Desktop App**  
+  Java desktop application with GUI for creating and taking multiple-choice exams.
 
-- 📝 **MCQ Test Desktop App** — Developed a Java-based desktop application with GUI for creating and taking multiple-choice tests.
+- 🖼️ **Cartoonify Image Desktop App**  
+  Python app that turns images into cartoon styles. Integrated software design principles: UML, ER modeling, and Agile methodology.
 
-- 🖼️ **Cartoonify Image Desktop App** — Created a Python application with GUI that transforms photos into cartoon-style images, applying software design principles including UML diagrams, ER modeling, and Agile methodologies.
 ---
 
 ### 📣 Let's Connect!
